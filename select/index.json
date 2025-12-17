@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ポニーテール キュルン",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-17T11:56:23.541087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポニーテール キュルン",
+      "artist": "Not Equal Me",
+      "has_synced": true,
+      "path": "select/01_ポニーテール_キュルン_Not_Equal_Me.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ポニーテール キュルン  (イコノイフェス2021〈昼公演〉)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_ポニーテール_キュルン_(イコノイフェス2021〈昼公演〉)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポニーテール キュルン",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_ポニーテール_キュルン_≠ME.txt"
+    }
+  ]
+}
